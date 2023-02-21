@@ -1,6 +1,6 @@
 # Python WebScrapping Example
 
-A brief description of what this project does.
+Its how to learn basic commands in python to webscrapping
 
 ## Table of Contents
 
